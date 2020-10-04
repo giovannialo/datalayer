@@ -339,4 +339,4 @@ Agradecido (õ.~)
 
 ## Licença
 
-A Licença do MIT. Por favor, veja [Arquivo de Licença](https://github.com/giovannialo/datalayer/blob/master/LICENSE) para maiores informações.
+A Licença do MIT. Por favor, veja o [Arquivo de Licença](https://github.com/giovannialo/datalayer/blob/master/LICENSE) para maiores informações.
