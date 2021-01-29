@@ -384,8 +384,8 @@ class DataLayer
         $data = (array) $this->data;
 
         foreach ($this->required as $field) {
-            if (!isset($data[$field])
-                || is_null($data[$field])
+            if (
+                !isset($data[$field])
                 || is_string($data[$field])
                 && $data[$field] == ''
             ) {
